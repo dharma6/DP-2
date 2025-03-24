@@ -6,7 +6,7 @@ And also had some confusion to comprehend why 1 is prefilled in the matrix.
 
 After re-watching the video, got some sense.
 
-But these base cases are still tricky, hoping with some practice, the uncertainity will slowly evaorate.
+But these base cases are still tricky, hoping with some practice, the uncertainity will slowly evaporate.
 
 TC: O(m*n)
 SC: O(m*n)
